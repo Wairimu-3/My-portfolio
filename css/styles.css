@@ -46,7 +46,9 @@
 *::after {
   box-sizing: border-box;
 }
-
+#ab-card{
+  box-shadow: 4px 4px 4px black;
+}
 .skill-mf span {
   color: #4e4e4e;
 }
