@@ -47,6 +47,31 @@
   box-sizing: border-box;
 }
 
+.skill-mf span {
+  color: #4e4e4e;
+}
+
+.skill-mf .progress {
+  background-color: #cde1f8;
+  margin: .5rem 0 1.2rem 0;
+  border-radius: 0;
+  height: .7rem;
+}
+
+.skill-mf .progress .progress-bar {
+  height: .7rem;
+  background-color: #0078ff;
+}
+
+.intro .intro-subtitle {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.intro .text-slider-items {
+  display: none;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -10446,7 +10471,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../static/assets/img/map-image.png");
+  background-image: url("../static/assets/img/stairs.jpeg");
   background-repeat: no-repeat;
   background-position: center;
 }
