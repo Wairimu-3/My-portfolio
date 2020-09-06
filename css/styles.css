@@ -184,14 +184,16 @@ sub {
 sup {
   top: -0.5em;
 }
-
+.main-nav:hover{
+  color: blue;
+}
 a {
-  color: #fed136;
+  color:blue;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #e6b301;
+  color: blue;
   text-decoration: underline;
 }
 
